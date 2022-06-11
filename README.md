@@ -26,6 +26,6 @@ unique identifier of a given ETF, **and by month** (employing **Pandas and NumPy
 * For this class (*MATH 499 - Consulting with Data Science through Python*), I also worked on two major team projects:
   1. [***"Developing a More Concise Life Insurance Application for Risk Classification"***](https://github.com/JoseCanela/Life-Insurance-Risk)
   2. [***"U.S. Traffic Sign Detection Using Convolutional Neural Networks – YOLOv3".***](https://github.com/JoseCanela/Traffic-Sign-Detection)
-* Unfortunately, at the time, my group members and I were not commiting our work on GitHub as we were completing our project sprints. Hence, these projects will be posted in their completed form. **These two projects will have their own repositories dedicated to them so that they are easy to access**:
+* Unfortunately, at the time, my group members and I were not commiting our work on GitHub that much as we were completing our project sprints. Hence, these projects will be posted in their completed form. **These two projects will have their own repositories dedicated to them so that they are easy to access**:
   1. [***Life-Insurance-Risk***](https://github.com/JoseCanela/Life-Insurance-Risk)
   2. [***Traffic-Sign-Detection***](https://github.com/JoseCanela/Traffic-Sign-Detection)
